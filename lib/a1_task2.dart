@@ -14,7 +14,7 @@ class task2 extends StatelessWidget {
         child: Container(
           padding: const EdgeInsets.all(20),
           child: const Text(
-            "Stars can't shine without darkness.",
+            "Stars can't shine without darkness.", //updated
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 24,

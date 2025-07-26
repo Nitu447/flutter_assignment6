@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const task1(), // Change to Task2() to test second screen
+      home: const task1(), // Change to Task2() to test second
     );
   }
 }
