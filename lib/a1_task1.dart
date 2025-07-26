@@ -20,7 +20,7 @@ class task1 extends StatelessWidget {
           child: const Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Text("Name: Nafisa Razzaque Nitu"),
+              Text("Name:Nafisa Razzaque Nitu"),
               Text("City: Sylhet"),
               Text("Favorite Color: Purple"),
             ],
